@@ -10,11 +10,14 @@ I am constantly looking for opportunities to expand my expertise and improve my 
 ## Skills
 
 - **Languages & Frameworks**:  
-  - HTML5 & CSS
+  - HTML5 & CSS3
   - JavaScript
   - React
   - Redux
   - MySQL
+  - Bootstrap
+  - Jquery
+  - Java
 
 - **Version Control**:  
   - Git

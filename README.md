@@ -44,7 +44,6 @@ I am constantly looking for opportunities to expand my expertise and improve my 
 ## Contact Information
 
 - **Email**: [akanshasharma9710@gmail.com](mailto:akanshasharma9710@gmail.com)
-- **Phone**: 981-874-0272
 - **LinkedIn**: [AkanshaSharma9710](https://www.linkedin.com/in/akanshasharma9710)
 - **GitHub**: [Akansha1009](https://github.com/Akansha1009)
 - **LeetCode**: [MyLeetCode](https://leetcode.com/MyLeetCode)

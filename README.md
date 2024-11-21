@@ -3,7 +3,7 @@
 
 ## About Me
 
-Hello! I’m Akansha Sharma, a driven and enthusiastic Front-End Developer with a passion for building user-centric websites. With over two years of experience in banking operations, I am transitioning into the exciting world of tech. I aim to leverage my skills in HTML, CSS, JavaScript, React, Git, and MySQL to create seamless web experiences.
+Hello! I’m Akansha Sharma, a driven and enthusiastic Front-End Developer with a passion for building user-centric websites. With over two years of experience in the industry. I aim to leverage my skills in HTML, CSS, JavaScript, React, Git, and MySQL to create seamless web experiences.
 
 I am constantly looking for opportunities to expand my expertise and improve my development skills to deliver modern, efficient, and user-friendly web solutions.
 
